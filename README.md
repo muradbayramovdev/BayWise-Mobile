@@ -1,17 +1,45 @@
-# baywise_app
+# 📱 BayWise Mobile
 
-A new Flutter project.
+BayWise is a personal finance management mobile application built with Flutter, designed to help users track transactions, manage budgets, and monitor their financial health on the go.
 
-## Getting Started
+## 🛠️ Tech Stack & Architecture
 
-This project is a starting point for a Flutter application.
+* **Framework:** Flutter (Dart)
+* **Backend Services:** Firebase (Authentication, Firestore)
+* **Platform:** Cross-platform (Android & iOS)
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Key Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Secure Authentication:** User login and registration via Firebase Auth.
+* **Expense Tracking:** Log and categorize daily financial transactions.
+* **Clean UI/UX:** Modern, dark-themed responsive interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started (Local Setup)
+
+**1. Clone the repository:**
+
+```bash
+git clone https://github.com/muradbayramovdev/BayWise-Mobile.git
+```
+
+**2. Navigate to the project directory:**
+
+```bash
+cd BayWise-Mobile
+```
+
+**3. Install Flutter dependencies:**
+
+```bash
+flutter pub get
+```
+
+**4. Run the application:**
+
+```bash
+flutter run
+```
+
+---
+
+Built with passion by **Murad Bayramov**.
