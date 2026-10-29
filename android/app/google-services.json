@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318544332876",
+    "project_id": "bay-wise-22594",
+    "storage_bucket": "bay-wise-22594.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318544332876:android:244360e3cdc3f5989a0ce9",
+        "android_client_info": {
+          "package_name": "com.baywise.baywise_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318544332876-15u403cl8u11h3cq5f70v2d342ft94k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baywise.baywise_app",
+            "certificate_hash": "8015ba13a499c89b7c58d04f2ad7f317a79dbe8f"
+          }
+        },
+        {
+          "client_id": "318544332876-n0896nu8ts4crq2qn6ud0a8mb55b99a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGE1bcVozkUNFIkq9RWgcELPGybtsolxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318544332876-n0896nu8ts4crq2qn6ud0a8mb55b99a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
