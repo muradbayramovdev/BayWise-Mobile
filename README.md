@@ -40,6 +40,19 @@ flutter pub get
 flutter run
 ```
 
+
+## 📄 License & Ownership
+
+Copyright © 2026 Murad Bayramov. All rights reserved.
+
+This source code is provided for viewing and portfolio purposes only. No permission is granted to copy, modify, distribute, or use it commercially without written permission from the author.
+
+The **BayWise** name and logo are the property of Murad Bayramov.
+
+## 🤖 Development Approach
+
+BayWise Mobile was conceived, designed, and directed by **Murad Bayramov**, including the product idea, feature set, UI/UX design, app architecture decisions, testing, and review. The implementation was developed with AI-assisted tools under the author's direction.
+
 ---
 
 Built with passion by **Murad Bayramov**.
